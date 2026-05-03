@@ -1,9 +1,6 @@
 title: Jyoti Prokash Anindya
 logo: asset/image/WhatsApp Image 2026-05-03 at 9.50.53 PM-modified.png
-#show_downloads: true
-theme: jekyll-theme-minimal
-
-Personal Info:
+description: Personal Info:
 Phone: "01756-003846"
 email: "jyotiprokash31122002@gmail.com"
 location: "Sylhet, Bangladesh"
@@ -39,3 +36,7 @@ Expertise:
   - "Microsoft Word"
   - "Microsoft Excel"
   - "Microsoft PowerPoint"
+
+#show_downloads: true
+theme: jekyll-theme-minimal
+
