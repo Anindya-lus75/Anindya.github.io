@@ -25,11 +25,11 @@ Currently, I am seeking opportunities to enhance my skills and contribute to an 
 - **Secretary**  
   *IEEE Computer Society LU SB Chapter* (2025 – 2026)
 
-- **Joint Organizing Secretary**  
-  *Leading University Research Society* (2024 – Present)
+- **Treasurer**  
+  *Leading University Research Society* (2025 – Present)
 
-- **Hashi Project Coordinator & Publicity Secretary**  
-  *Leading University Social Services Club* (2024 – Present)
+- **Vice President**  
+  *Leading University Social Services Club* (2025 – Present)
 
 - **Workshop & Seminar Lead**  
   *Leading University Computer Club* (2025 – Present)
