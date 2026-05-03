@@ -55,6 +55,38 @@ Currently, I am seeking opportunities to enhance my skills and contribute to an 
 
 ---
 
-# Connect With Me
+# Education
 
-> Feel free to connect and collaborate!
+- Leading University 
+  B.Sc. in Computer Science And Engineering . [ 2022 – Present ] 
+- Sylhet Science And Technology College 
+  Higher Secondary Certificate  [ 2019 – 2020 ] 
+- Govt. M.C. Academy 
+  Secondary School Certificate [ 2017 – 2018 ]
+
+---
+
+# Skills
+
+- Flutter   
+- C , C++  
+- Java
+- Python
+
+---
+
+# Language
+
+- Bengali   
+- English  
+- Hindi
+
+---
+
+# Experts
+
+- Microsoft Word   
+- Microsoft Excel  
+- Microsoft Powerpoint
+
+---
